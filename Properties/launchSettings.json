@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CbUploader": {
+      "commandName": "Project",
+      "commandLineArgs": "--source \"C:\\Users\\mrobertson\\ClientBilling\\Consol billing statement\" --output \"Jan 1 2021 Test\" --testrun true --workers 75"
+    }
+  }
+}
